@@ -7,7 +7,10 @@ Projeto feito para o penultimo modulo do curso de engenharia de dados da DIO/NTT
 
 ## Demonstração
 
-[Uma imagem demonstrando o seu projeto em funcionamento]
+Demonstração
 
+Sem star Schema
 ![Sem Star Schema](Schema.jpeg)
-![Com Star Schema](Star Schema.jpeg)
+
+Com star Schema
+![Com Star Schema](StarSchema.jpeg)
