@@ -19,4 +19,4 @@ O objetivo deste dashboard é fornecer insights detalhados sobre as vendas de um
 ![Modelo Relacionamentos](relacoes.jpeg)
 
 2. Modelo final no star schema:
-![Modelo Star Schema](starchema.jpeg)
+![Modelo Star Schema](starschema.jpeg)
